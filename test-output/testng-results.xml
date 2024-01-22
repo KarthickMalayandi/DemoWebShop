@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Status Code : 201]]>
+    </line>
+    <line>
+      <![CDATA[Status Message : HTTP/1.1 201 Created]]>
+    </line>
+    <line>
+      <![CDATA[RA_Github_Repo95001 is matchig]]>
+    </line>
+    <line>
+      <![CDATA[Rest Assured Repo is matchig]]>
+    </line>
+    <line>
+      <![CDATA[Status Code : 200]]>
+    </line>
+    <line>
+      <![CDATA[Status Message : HTTP/1.1 200 OK]]>
+    </line>
+    <line>
+      <![CDATA[Status Code : 200]]>
+    </line>
+    <line>
+      <![CDATA[Status Message : HTTP/1.1 200 OK]]>
+    </line>
+    <line>
+      <![CDATA[New Rest Assured Repo description is matchig]]>
+    </line>
+    <line>
+      <![CDATA[Status Code : 204]]>
+    </line>
+    <line>
+      <![CDATA[Status Message : HTTP/1.1 204 No Content]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-01-23T02:08:36 IST" name="Default suite" finished-at="2024-01-23T02:08:41 IST" duration-ms="5242">
+    <groups>
+    </groups>
+    <test started-at="2024-01-23T02:08:36 IST" name="Default test" finished-at="2024-01-23T02:08:41 IST" duration-ms="5242">
+      <class name="webServicesTestCases.Module1_GithubRepo">
+        <test-method signature="tc001_CreateRepo()[pri:0, instance:webServicesTestCases.Module1_GithubRepo@67f639d3]" started-at="2024-01-23T02:08:36 IST" name="tc001_CreateRepo" finished-at="2024-01-23T02:08:39 IST" duration-ms="3557" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Status Code : 201]]>
+            </line>
+            <line>
+              <![CDATA[Status Message : HTTP/1.1 201 Created]]>
+            </line>
+            <line>
+              <![CDATA[RA_Github_Repo95001 is matchig]]>
+            </line>
+            <line>
+              <![CDATA[Rest Assured Repo is matchig]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc001_CreateRepo -->
+        <test-method signature="tc002_GetRepo()[pri:0, instance:webServicesTestCases.Module1_GithubRepo@67f639d3]" started-at="2024-01-23T02:08:39 IST" name="tc002_GetRepo" finished-at="2024-01-23T02:08:40 IST" duration-ms="483" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Status Code : 200]]>
+            </line>
+            <line>
+              <![CDATA[Status Message : HTTP/1.1 200 OK]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc002_GetRepo -->
+        <test-method signature="tc003_UpdateRepo()[pri:0, instance:webServicesTestCases.Module1_GithubRepo@67f639d3]" started-at="2024-01-23T02:08:40 IST" name="tc003_UpdateRepo" finished-at="2024-01-23T02:08:40 IST" duration-ms="581" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Status Code : 200]]>
+            </line>
+            <line>
+              <![CDATA[Status Message : HTTP/1.1 200 OK]]>
+            </line>
+            <line>
+              <![CDATA[New Rest Assured Repo description is matchig]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc003_UpdateRepo -->
+        <test-method signature="tc004_DeleteRepo()[pri:0, instance:webServicesTestCases.Module1_GithubRepo@67f639d3]" started-at="2024-01-23T02:08:40 IST" name="tc004_DeleteRepo" finished-at="2024-01-23T02:08:41 IST" duration-ms="567" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Status Code : 204]]>
+            </line>
+            <line>
+              <![CDATA[Status Message : HTTP/1.1 204 No Content]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc004_DeleteRepo -->
+      </class> <!-- webServicesTestCases.Module1_GithubRepo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

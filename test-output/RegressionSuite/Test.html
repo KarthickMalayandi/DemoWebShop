@@ -1,0 +1,306 @@
+<html>
+<head>
+<title>TestNG:  Test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>9/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Tue Jan 23 01:05:05 IST 2024</td>
+</tr>
+<tr><td>Total time:</td><td>87 seconds (87064 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='webTestCases.Module1_Registration.tc002_Invalid_Data()'><b>tc002_Invalid_Data</b><br>Test class: webTestCases.Module1_Registration<br/>
+<a href="#Output-428798670" onClick='toggleBox("Output-428798670", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-428798670" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-428798670">
+Edge browser is opened<br/>
+Browser is maximized<br/>
+Navigated to https://demowebshop.tricentis.com/<br/>
+Implicit wait set to : 20 seconds<br/>
+Register is clicked<br/>
+ is clicked<br/>
+Entered Dummy into <br/>
+Entered User into <br/>
+Entered mkar@gmail.com into <br/>
+Entered Ka@12345 into <br/>
+Entered Ka@12345 into <br/>
+ is clicked<br/>
+The specified email already exists is displayed<br/>
+Browser is closed<br/>
+</div>
+</td>
+<td></td>
+<td>8</td>
+<td>webTestCases.Module1_Registration@47e2e487</td></tr>
+<tr>
+<td title='webTestCases.Module4_Cart.tc002_Update_Product()'><b>tc002_Update_Product</b><br>Test class: webTestCases.Module4_Cart<br/>
+<a href="#Output-1475331837" onClick='toggleBox("Output-1475331837", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1475331837" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1475331837">
+Chrome browser is opened<br/>
+Browser is maximized<br/>
+Navigated to https://demowebshop.tricentis.com/<br/>
+Implicit wait set to : 20 seconds<br/>
+Log in is clicked<br/>
+Entered mkar@gmail.com into <br/>
+Entered Ka@12345 into <br/>
+ is clicked<br/>
+mkar@gmail.com is displayed<br/>
+Shopping cart is clicked<br/>
+Shopping cart is displayed<br/>
+Simple Computer is displayed<br/>
+Cleared and entered 5 into <br/>
+ is clicked<br/>
+Value of value attribute is 5<br/>
+Strings are matchig<br/>
+Browser is closed<br/>
+</div>
+</td>
+<td></td>
+<td>9</td>
+<td>webTestCases.Module4_Cart@942a29c</td></tr>
+<tr>
+<td title='webTestCases.Module4_Cart.tc003_Delete_Product()'><b>tc003_Delete_Product</b><br>Test class: webTestCases.Module4_Cart<br/>
+<a href="#Output-1289462509" onClick='toggleBox("Output-1289462509", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1289462509" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1289462509">
+Chrome browser is opened<br/>
+Browser is maximized<br/>
+Navigated to https://demowebshop.tricentis.com/<br/>
+Implicit wait set to : 20 seconds<br/>
+Log in is clicked<br/>
+Entered mkar@gmail.com into <br/>
+Entered Ka@12345 into <br/>
+ is clicked<br/>
+mkar@gmail.com is displayed<br/>
+Shopping cart is clicked<br/>
+Shopping cart is displayed<br/>
+Simple Computer is displayed<br/>
+Cleared and entered 0 into <br/>
+ is clicked<br/>
+Your Shopping Cart is empty! is displayed<br/>
+Browser is closed<br/>
+</div>
+</td>
+<td></td>
+<td>10</td>
+<td>webTestCases.Module4_Cart@942a29c</td></tr>
+<tr>
+<td title='webTestCases.Module3_Search.tc001_Search_via_NavigationBar()'><b>tc001_Search_via_NavigationBar</b><br>Test class: webTestCases.Module3_Search<br/>
+<a href="#Output-105393903" onClick='toggleBox("Output-105393903", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-105393903" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-105393903">
+Chrome browser is opened<br/>
+Browser is maximized<br/>
+Navigated to https://demowebshop.tricentis.com/<br/>
+Implicit wait set to : 20 seconds<br/>
+Log in is clicked<br/>
+Entered mkar@gmail.com into <br/>
+Entered Ka@12345 into <br/>
+ is clicked<br/>
+mkar@gmail.com is displayed<br/>
+Mouse hovered on COMPUTERS<br/>
+Desktops is clicked<br/>
+Desktops is displayed<br/>
+Browser is closed<br/>
+</div>
+</td>
+<td></td>
+<td>9</td>
+<td>webTestCases.Module3_Search@73e9cf30</td></tr>
+<tr>
+<td title='webTestCases.Module3_Search.tc002_Search_via_SearchTF()'><b>tc002_Search_via_SearchTF</b><br>Test class: webTestCases.Module3_Search<br/>
+<a href="#Output-956061012" onClick='toggleBox("Output-956061012", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-956061012" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-956061012">
+Chrome browser is opened<br/>
+Browser is maximized<br/>
+Navigated to https://demowebshop.tricentis.com/<br/>
+Implicit wait set to : 20 seconds<br/>
+Log in is clicked<br/>
+Entered mkar@gmail.com into <br/>
+Entered Ka@12345 into <br/>
+ is clicked<br/>
+mkar@gmail.com is displayed<br/>
+Entered computer into <br/>
+Simple Computer is clicked<br/>
+Simple Computer is displayed<br/>
+Browser is closed<br/>
+</div>
+</td>
+<td></td>
+<td>10</td>
+<td>webTestCases.Module3_Search@73e9cf30</td></tr>
+<tr>
+<td title='webTestCases.Module4_Cart.tc001_Add_Product()'><b>tc001_Add_Product</b><br>Test class: webTestCases.Module4_Cart<br/>
+<a href="#Output-403930795" onClick='toggleBox("Output-403930795", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-403930795" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-403930795">
+Chrome browser is opened<br/>
+Browser is maximized<br/>
+Navigated to https://demowebshop.tricentis.com/<br/>
+Implicit wait set to : 20 seconds<br/>
+Log in is clicked<br/>
+Entered mkar@gmail.com into <br/>
+Entered Ka@12345 into <br/>
+ is clicked<br/>
+mkar@gmail.com is displayed<br/>
+Mouse hovered on COMPUTERS<br/>
+Desktops is clicked<br/>
+Desktops is displayed<br/>
+Scrolled till <br/>
+ is clicked<br/>
+Simple Computer is displayed<br/>
+Slow is clicked<br/>
+ is clicked<br/>
+The product has been added to your shopping cart is displayed<br/>
+  is clicked<br/>
+Browser is closed<br/>
+</div>
+</td>
+<td></td>
+<td>10</td>
+<td>webTestCases.Module4_Cart@942a29c</td></tr>
+<tr>
+<td title='webTestCases.Module2_Login.tc002_Invalid_Data()'><b>tc002_Invalid_Data</b><br>Test class: webTestCases.Module2_Login<br/>
+<a href="#Output-2137552114" onClick='toggleBox("Output-2137552114", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-2137552114" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-2137552114">
+Edge browser is opened<br/>
+Browser is maximized<br/>
+Navigated to https://demowebshop.tricentis.com/<br/>
+Implicit wait set to : 20 seconds<br/>
+Log in is clicked<br/>
+Entered karti@hotmail.com into <br/>
+Entered Ka@12345 into <br/>
+ is clicked<br/>
+Login was unsuccessful. Please correct the errors and try again.
+No customer account found is displayed<br/>
+Browser is closed<br/>
+</div>
+</td>
+<td></td>
+<td>7</td>
+<td>webTestCases.Module2_Login@771a660</td></tr>
+<tr>
+<td title='webTestCases.Module2_Login.tc001_Valid_Data()'><b>tc001_Valid_Data</b><br>Test class: webTestCases.Module2_Login<br/>
+<a href="#Output-177389135" onClick='toggleBox("Output-177389135", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-177389135" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-177389135">
+Chrome browser is opened<br/>
+Browser is maximized<br/>
+Navigated to https://demowebshop.tricentis.com/<br/>
+Implicit wait set to : 20 seconds<br/>
+Log in is clicked<br/>
+Entered mkar@gmail.com into <br/>
+Entered Ka@12345 into <br/>
+ is clicked<br/>
+mkar@gmail.com is displayed<br/>
+Browser is closed<br/>
+</div>
+</td>
+<td></td>
+<td>9</td>
+<td>webTestCases.Module2_Login@771a660</td></tr>
+<tr>
+<td title='webTestCases.Module1_Registration.tc001_Valid_Data()'><b>tc001_Valid_Data</b><br>Test class: webTestCases.Module1_Registration<br/>
+<a href="#Output-22668134" onClick='toggleBox("Output-22668134", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-22668134" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-22668134">
+Chrome browser is opened<br/>
+Browser is maximized<br/>
+Navigated to https://demowebshop.tricentis.com/<br/>
+Implicit wait set to : 20 seconds<br/>
+Register is clicked<br/>
+ is clicked<br/>
+Entered Dummy into <br/>
+Entered User into <br/>
+Entered ysKeE123@gmail.com into <br/>
+Entered Ka@12345 into <br/>
+Entered Ka@12345 into <br/>
+ is clicked<br/>
+Your registration completed is displayed<br/>
+Browser is closed<br/>
+</div>
+</td>
+<td></td>
+<td>11</td>
+<td>webTestCases.Module1_Registration@47e2e487</td></tr>
+</table><p>
+</body>
+</html>
