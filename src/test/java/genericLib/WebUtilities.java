@@ -6,11 +6,12 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.edge.EdgeDriver;
+import org.openqa.selenium.edge.EdgeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.firefox.FirefoxOptions;
 import org.openqa.selenium.interactions.Actions;
-import org.openqa.selenium.manager.SeleniumManager;
-import org.openqa.selenium.manager.SeleniumManagerOutput;
 import org.testng.Reporter;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
@@ -26,21 +27,29 @@ public class WebUtilities {
 		switch (name) {
 		case "chrome":
 			WebDriverManager.chromedriver().setup();
+			ChromeOptions chromeOpt = new ChromeOptions();
+			chromeOpt.addArguments("--disable-dev-shm-usage");
 			driver=new ChromeDriver();
 			Reporter.log("Chrome browser is opened", true);
 			break;
 		case "firefox":
 			WebDriverManager.firefoxdriver().setup();
+			FirefoxOptions firefoxOpt =new FirefoxOptions();
+			firefoxOpt.addArguments("--disable-dev-shm-usage");
 			driver=new FirefoxDriver();
 			Reporter.log("FireFox browser is opened", true);
 			break;	
 		case "edge":
 			WebDriverManager.edgedriver().setup();
+			EdgeOptions edgeOpt=new EdgeOptions();
+			edgeOpt.addArguments("--disable-dev-shm-usage");
 			driver=new EdgeDriver();
 			Reporter.log("Edge browser is opened", true);
 			break;	
 		default:
 			WebDriverManager.chromedriver().setup();
+			ChromeOptions chromeOpt1 = new ChromeOptions();
+			chromeOpt1.addArguments("--disable-dev-shm-usage");
 			driver=new ChromeDriver();
 			Reporter.log("Chrome browser is opened", true);
 			break;
