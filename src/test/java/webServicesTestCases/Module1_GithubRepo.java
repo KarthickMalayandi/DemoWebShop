@@ -9,7 +9,7 @@ import io.restassured.response.Response;
 
 public class Module1_GithubRepo extends BaseClass{
 
-	String bearerToken="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";
+	String bearerToken="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";
 	String baseURI="https://api.github.com";
 	String ownerName;
 	String repoName;
@@ -41,8 +41,6 @@ public class Module1_GithubRepo extends BaseClass{
 	@Test
 	public void tc002_GetRepo()
 	{
-		String bearerToken="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";
-		String baseURI="https://api.github.com";
 		
 		Response response = RestAssured.given().
 				header("Authorization", "Bearer " + bearerToken).
@@ -75,8 +73,6 @@ public class Module1_GithubRepo extends BaseClass{
 	@Test
 	public void tc004_DeleteRepo()
 	{
-		String bearerToken="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";
-		String baseURI="https://api.github.com";
 		
 		Response response = RestAssured.given().
 				header("Authorization", "Bearer " + bearerToken).

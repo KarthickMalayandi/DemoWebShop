@@ -8,7 +8,7 @@
       <![CDATA[Status Message : HTTP/1.1 201 Created]]>
     </line>
     <line>
-      <![CDATA[RA_Github_Repo95001 is matchig]]>
+      <![CDATA[RA_Github_Repo44580 is matchig]]>
     </line>
     <line>
       <![CDATA[Rest Assured Repo is matchig]]>
@@ -35,12 +35,12 @@
       <![CDATA[Status Message : HTTP/1.1 204 No Content]]>
     </line>
   </reporter-output>
-  <suite started-at="2024-01-23T02:08:36 IST" name="Default suite" finished-at="2024-01-23T02:08:41 IST" duration-ms="5242">
+  <suite started-at="2024-01-24T23:56:20 IST" name="Default suite" finished-at="2024-01-24T23:56:28 IST" duration-ms="8060">
     <groups>
     </groups>
-    <test started-at="2024-01-23T02:08:36 IST" name="Default test" finished-at="2024-01-23T02:08:41 IST" duration-ms="5242">
+    <test started-at="2024-01-24T23:56:20 IST" name="Default test" finished-at="2024-01-24T23:56:28 IST" duration-ms="8060">
       <class name="webServicesTestCases.Module1_GithubRepo">
-        <test-method signature="tc001_CreateRepo()[pri:0, instance:webServicesTestCases.Module1_GithubRepo@67f639d3]" started-at="2024-01-23T02:08:36 IST" name="tc001_CreateRepo" finished-at="2024-01-23T02:08:39 IST" duration-ms="3557" status="PASS">
+        <test-method signature="tc001_CreateRepo()[pri:0, instance:webServicesTestCases.Module1_GithubRepo@67f639d3]" started-at="2024-01-24T23:56:20 IST" name="tc001_CreateRepo" finished-at="2024-01-24T23:56:25 IST" duration-ms="5440" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Status Code : 201]]>
@@ -49,14 +49,14 @@
               <![CDATA[Status Message : HTTP/1.1 201 Created]]>
             </line>
             <line>
-              <![CDATA[RA_Github_Repo95001 is matchig]]>
+              <![CDATA[RA_Github_Repo44580 is matchig]]>
             </line>
             <line>
               <![CDATA[Rest Assured Repo is matchig]]>
             </line>
           </reporter-output>
         </test-method> <!-- tc001_CreateRepo -->
-        <test-method signature="tc002_GetRepo()[pri:0, instance:webServicesTestCases.Module1_GithubRepo@67f639d3]" started-at="2024-01-23T02:08:39 IST" name="tc002_GetRepo" finished-at="2024-01-23T02:08:40 IST" duration-ms="483" status="PASS">
+        <test-method signature="tc002_GetRepo()[pri:0, instance:webServicesTestCases.Module1_GithubRepo@67f639d3]" started-at="2024-01-24T23:56:25 IST" name="tc002_GetRepo" finished-at="2024-01-24T23:56:26 IST" duration-ms="628" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Status Code : 200]]>
@@ -66,7 +66,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- tc002_GetRepo -->
-        <test-method signature="tc003_UpdateRepo()[pri:0, instance:webServicesTestCases.Module1_GithubRepo@67f639d3]" started-at="2024-01-23T02:08:40 IST" name="tc003_UpdateRepo" finished-at="2024-01-23T02:08:40 IST" duration-ms="581" status="PASS">
+        <test-method signature="tc003_UpdateRepo()[pri:0, instance:webServicesTestCases.Module1_GithubRepo@67f639d3]" started-at="2024-01-24T23:56:26 IST" name="tc003_UpdateRepo" finished-at="2024-01-24T23:56:27 IST" duration-ms="1178" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Status Code : 200]]>
@@ -79,7 +79,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- tc003_UpdateRepo -->
-        <test-method signature="tc004_DeleteRepo()[pri:0, instance:webServicesTestCases.Module1_GithubRepo@67f639d3]" started-at="2024-01-23T02:08:40 IST" name="tc004_DeleteRepo" finished-at="2024-01-23T02:08:41 IST" duration-ms="567" status="PASS">
+        <test-method signature="tc004_DeleteRepo()[pri:0, instance:webServicesTestCases.Module1_GithubRepo@67f639d3]" started-at="2024-01-24T23:56:27 IST" name="tc004_DeleteRepo" finished-at="2024-01-24T23:56:28 IST" duration-ms="757" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Status Code : 204]]>

@@ -5,7 +5,7 @@
     <classes>
       <class name="webServicesTestCases.Module1_GithubRepo">
         <methods>
-          <include name="tc001_CreateRepo"/>
+          <include name="tc003_UpdateRepo"/>
         </methods>
       </class> <!-- webServicesTestCases.Module1_GithubRepo -->
     </classes>
