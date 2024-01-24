@@ -29,28 +29,28 @@ public class WebUtilities {
 			WebDriverManager.chromedriver().setup();
 			ChromeOptions chromeOpt = new ChromeOptions();
 			chromeOpt.addArguments("--disable-dev-shm-usage");
-			driver=new ChromeDriver();
+			driver=new ChromeDriver(chromeOpt);
 			Reporter.log("Chrome browser is opened", true);
 			break;
 		case "firefox":
 			WebDriverManager.firefoxdriver().setup();
 			FirefoxOptions firefoxOpt =new FirefoxOptions();
 			firefoxOpt.addArguments("--disable-dev-shm-usage");
-			driver=new FirefoxDriver();
+			driver=new FirefoxDriver(firefoxOpt);
 			Reporter.log("FireFox browser is opened", true);
 			break;	
 		case "edge":
 			WebDriverManager.edgedriver().setup();
 			EdgeOptions edgeOpt=new EdgeOptions();
 			edgeOpt.addArguments("--disable-dev-shm-usage");
-			driver=new EdgeDriver();
+			driver=new EdgeDriver(edgeOpt);
 			Reporter.log("Edge browser is opened", true);
 			break;	
 		default:
 			WebDriverManager.chromedriver().setup();
 			ChromeOptions chromeOpt1 = new ChromeOptions();
 			chromeOpt1.addArguments("--disable-dev-shm-usage");
-			driver=new ChromeDriver();
+			driver=new ChromeDriver(chromeOpt1);
 			Reporter.log("Chrome browser is opened", true);
 			break;
 		}
