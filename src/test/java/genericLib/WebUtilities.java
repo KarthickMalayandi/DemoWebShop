@@ -9,7 +9,11 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.manager.SeleniumManager;
+import org.openqa.selenium.manager.SeleniumManagerOutput;
 import org.testng.Reporter;
+
+import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class WebUtilities {
 
@@ -21,18 +25,22 @@ public class WebUtilities {
 		
 		switch (name) {
 		case "chrome":
+			WebDriverManager.chromedriver().setup();
 			driver=new ChromeDriver();
 			Reporter.log("Chrome browser is opened", true);
 			break;
 		case "firefox":
+			WebDriverManager.firefoxdriver().setup();
 			driver=new FirefoxDriver();
 			Reporter.log("FireFox browser is opened", true);
 			break;	
 		case "edge":
+			WebDriverManager.edgedriver().setup();
 			driver=new EdgeDriver();
 			Reporter.log("Edge browser is opened", true);
 			break;	
 		default:
+			WebDriverManager.chromedriver().setup();
 			driver=new ChromeDriver();
 			Reporter.log("Chrome browser is opened", true);
 			break;
