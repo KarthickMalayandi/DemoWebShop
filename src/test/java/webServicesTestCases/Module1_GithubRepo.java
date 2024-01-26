@@ -9,7 +9,7 @@ import io.restassured.response.Response;
 
 public class Module1_GithubRepo extends BaseClass{
 
-	String bearerToken="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";
+	String bearerToken="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";
 	String baseURI="https://api.github.com";
 	String ownerName;
 	String repoName;
