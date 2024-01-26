@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="webServicesTestCases.Module1_GithubRepo">
+      <class name="androidTestCases.LoginTC">
         <methods>
-          <include name="tc003_UpdateRepo"/>
+          <include name="tc001"/>
         </methods>
-      </class> <!-- webServicesTestCases.Module1_GithubRepo -->
+      </class> <!-- androidTestCases.LoginTC -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

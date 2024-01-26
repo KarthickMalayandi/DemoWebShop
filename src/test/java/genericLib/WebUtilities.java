@@ -28,7 +28,9 @@ public class WebUtilities {
 		case "chrome":
 			WebDriverManager.chromedriver().setup();
 			ChromeOptions chromeOpt = new ChromeOptions();
+			chromeOpt.addArguments("--no-sandbox");
 			chromeOpt.addArguments("--disable-dev-shm-usage");
+			chromeOpt.addArguments("--headless");
 			driver=new ChromeDriver(chromeOpt);
 			Reporter.log("Chrome browser is opened", true);
 			break;
@@ -36,6 +38,7 @@ public class WebUtilities {
 			WebDriverManager.firefoxdriver().setup();
 			FirefoxOptions firefoxOpt =new FirefoxOptions();
 			firefoxOpt.addArguments("--disable-dev-shm-usage");
+			firefoxOpt.addArguments("--headless");
 			driver=new FirefoxDriver(firefoxOpt);
 			Reporter.log("FireFox browser is opened", true);
 			break;	
@@ -43,6 +46,7 @@ public class WebUtilities {
 			WebDriverManager.edgedriver().setup();
 			EdgeOptions edgeOpt=new EdgeOptions();
 			edgeOpt.addArguments("--disable-dev-shm-usage");
+			edgeOpt.addArguments("--headless");
 			driver=new EdgeDriver(edgeOpt);
 			Reporter.log("Edge browser is opened", true);
 			break;	

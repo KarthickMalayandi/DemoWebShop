@@ -10,6 +10,7 @@ import pomPages.RegisterPage;
 public class BaseClass {
 
 	public WebUtilities webUtil=new WebUtilities();
+	public AndroidUtilities androidUtil=new AndroidUtilities();
 	public Utilities util=new Utilities();
 	
 	public HomePage hp=new HomePage();

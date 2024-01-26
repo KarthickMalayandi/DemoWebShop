@@ -7,6 +7,8 @@
       <class name="webTestCases.Module3_Search"/>
       <class name="webTestCases.Module2_Login"/>
       <class name="webTestCases.Module4_Cart"/>
+      <class name="webServicesTestCases.Module1_GithubRepo"/>
+      <class name="androidTestCases.MobileWebTC"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- RegressionSuite -->

@@ -1,6 +1,388 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+<testng-results ignored="0" total="15" passed="15" failed="0" skipped="0">
   <reporter-output>
+    <line>
+      <![CDATA[FireFox browser is opened]]>
+    </line>
+    <line>
+      <![CDATA[Browser is maximized]]>
+    </line>
+    <line>
+      <![CDATA[Navigated to https://demowebshop.tricentis.com/]]>
+    </line>
+    <line>
+      <![CDATA[Implicit wait set to : 20 seconds]]>
+    </line>
+    <line>
+      <![CDATA[Register is clicked]]>
+    </line>
+    <line>
+      <![CDATA[ is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Entered Dummy into ]]>
+    </line>
+    <line>
+      <![CDATA[Entered User into ]]>
+    </line>
+    <line>
+      <![CDATA[Entered RY4nJ123@gmail.com into ]]>
+    </line>
+    <line>
+      <![CDATA[Entered Ka@12345 into ]]>
+    </line>
+    <line>
+      <![CDATA[Entered Ka@12345 into ]]>
+    </line>
+    <line>
+      <![CDATA[ is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Your registration completed is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Browser is closed]]>
+    </line>
+    <line>
+      <![CDATA[Edge browser is opened]]>
+    </line>
+    <line>
+      <![CDATA[Browser is maximized]]>
+    </line>
+    <line>
+      <![CDATA[Navigated to https://demowebshop.tricentis.com/]]>
+    </line>
+    <line>
+      <![CDATA[Implicit wait set to : 20 seconds]]>
+    </line>
+    <line>
+      <![CDATA[Register is clicked]]>
+    </line>
+    <line>
+      <![CDATA[ is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Entered Dummy into ]]>
+    </line>
+    <line>
+      <![CDATA[Entered User into ]]>
+    </line>
+    <line>
+      <![CDATA[Entered mkar@gmail.com into ]]>
+    </line>
+    <line>
+      <![CDATA[Entered Ka@12345 into ]]>
+    </line>
+    <line>
+      <![CDATA[Entered Ka@12345 into ]]>
+    </line>
+    <line>
+      <![CDATA[ is clicked]]>
+    </line>
+    <line>
+      <![CDATA[The specified email already exists is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Browser is closed]]>
+    </line>
+    <line>
+      <![CDATA[Chrome browser is opened]]>
+    </line>
+    <line>
+      <![CDATA[Browser is maximized]]>
+    </line>
+    <line>
+      <![CDATA[Navigated to https://demowebshop.tricentis.com/]]>
+    </line>
+    <line>
+      <![CDATA[Implicit wait set to : 20 seconds]]>
+    </line>
+    <line>
+      <![CDATA[Log in is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Entered mkar@gmail.com into ]]>
+    </line>
+    <line>
+      <![CDATA[Entered Ka@12345 into ]]>
+    </line>
+    <line>
+      <![CDATA[ is clicked]]>
+    </line>
+    <line>
+      <![CDATA[mkar@gmail.com is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Mouse hovered on COMPUTERS]]>
+    </line>
+    <line>
+      <![CDATA[Desktops is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Desktops is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Browser is closed]]>
+    </line>
+    <line>
+      <![CDATA[Chrome browser is opened]]>
+    </line>
+    <line>
+      <![CDATA[Browser is maximized]]>
+    </line>
+    <line>
+      <![CDATA[Navigated to https://demowebshop.tricentis.com/]]>
+    </line>
+    <line>
+      <![CDATA[Implicit wait set to : 20 seconds]]>
+    </line>
+    <line>
+      <![CDATA[Log in is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Entered mkar@gmail.com into ]]>
+    </line>
+    <line>
+      <![CDATA[Entered Ka@12345 into ]]>
+    </line>
+    <line>
+      <![CDATA[ is clicked]]>
+    </line>
+    <line>
+      <![CDATA[mkar@gmail.com is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Entered computer into ]]>
+    </line>
+    <line>
+      <![CDATA[Simple Computer is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Simple Computer is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Browser is closed]]>
+    </line>
+    <line>
+      <![CDATA[Chrome browser is opened]]>
+    </line>
+    <line>
+      <![CDATA[Browser is maximized]]>
+    </line>
+    <line>
+      <![CDATA[Navigated to https://demowebshop.tricentis.com/]]>
+    </line>
+    <line>
+      <![CDATA[Implicit wait set to : 20 seconds]]>
+    </line>
+    <line>
+      <![CDATA[Log in is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Entered mkar@gmail.com into ]]>
+    </line>
+    <line>
+      <![CDATA[Entered Ka@12345 into ]]>
+    </line>
+    <line>
+      <![CDATA[ is clicked]]>
+    </line>
+    <line>
+      <![CDATA[mkar@gmail.com is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Browser is closed]]>
+    </line>
+    <line>
+      <![CDATA[Edge browser is opened]]>
+    </line>
+    <line>
+      <![CDATA[Browser is maximized]]>
+    </line>
+    <line>
+      <![CDATA[Navigated to https://demowebshop.tricentis.com/]]>
+    </line>
+    <line>
+      <![CDATA[Implicit wait set to : 20 seconds]]>
+    </line>
+    <line>
+      <![CDATA[Log in is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Entered karti@hotmail.com into ]]>
+    </line>
+    <line>
+      <![CDATA[Entered Ka@12345 into ]]>
+    </line>
+    <line>
+      <![CDATA[ is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Login was unsuccessful. Please correct the errors and try again.
+No customer account found is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Browser is closed]]>
+    </line>
+    <line>
+      <![CDATA[Chrome browser is opened]]>
+    </line>
+    <line>
+      <![CDATA[Browser is maximized]]>
+    </line>
+    <line>
+      <![CDATA[Navigated to https://demowebshop.tricentis.com/]]>
+    </line>
+    <line>
+      <![CDATA[Implicit wait set to : 20 seconds]]>
+    </line>
+    <line>
+      <![CDATA[Log in is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Entered mkar@gmail.com into ]]>
+    </line>
+    <line>
+      <![CDATA[Entered Ka@12345 into ]]>
+    </line>
+    <line>
+      <![CDATA[ is clicked]]>
+    </line>
+    <line>
+      <![CDATA[mkar@gmail.com is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Mouse hovered on COMPUTERS]]>
+    </line>
+    <line>
+      <![CDATA[Desktops is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Desktops is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Scrolled till ]]>
+    </line>
+    <line>
+      <![CDATA[ is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Simple Computer is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Slow is clicked]]>
+    </line>
+    <line>
+      <![CDATA[ is clicked]]>
+    </line>
+    <line>
+      <![CDATA[The product has been added to your shopping cart is displayed]]>
+    </line>
+    <line>
+      <![CDATA[  is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Browser is closed]]>
+    </line>
+    <line>
+      <![CDATA[Chrome browser is opened]]>
+    </line>
+    <line>
+      <![CDATA[Browser is maximized]]>
+    </line>
+    <line>
+      <![CDATA[Navigated to https://demowebshop.tricentis.com/]]>
+    </line>
+    <line>
+      <![CDATA[Implicit wait set to : 20 seconds]]>
+    </line>
+    <line>
+      <![CDATA[Log in is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Entered mkar@gmail.com into ]]>
+    </line>
+    <line>
+      <![CDATA[Entered Ka@12345 into ]]>
+    </line>
+    <line>
+      <![CDATA[ is clicked]]>
+    </line>
+    <line>
+      <![CDATA[mkar@gmail.com is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Shopping cart is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Shopping cart is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Simple Computer is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Cleared and entered 5 into ]]>
+    </line>
+    <line>
+      <![CDATA[ is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Value of value attribute is 5]]>
+    </line>
+    <line>
+      <![CDATA[5 is matchig]]>
+    </line>
+    <line>
+      <![CDATA[Browser is closed]]>
+    </line>
+    <line>
+      <![CDATA[Chrome browser is opened]]>
+    </line>
+    <line>
+      <![CDATA[Browser is maximized]]>
+    </line>
+    <line>
+      <![CDATA[Navigated to https://demowebshop.tricentis.com/]]>
+    </line>
+    <line>
+      <![CDATA[Implicit wait set to : 20 seconds]]>
+    </line>
+    <line>
+      <![CDATA[Log in is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Entered mkar@gmail.com into ]]>
+    </line>
+    <line>
+      <![CDATA[Entered Ka@12345 into ]]>
+    </line>
+    <line>
+      <![CDATA[ is clicked]]>
+    </line>
+    <line>
+      <![CDATA[mkar@gmail.com is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Shopping cart is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Shopping cart is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Simple Computer is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Cleared and entered 0 into ]]>
+    </line>
+    <line>
+      <![CDATA[ is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Your Shopping Cart is empty! is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Browser is closed]]>
+    </line>
     <line>
       <![CDATA[Status Code : 201]]>
     </line>
@@ -8,7 +390,7 @@
       <![CDATA[Status Message : HTTP/1.1 201 Created]]>
     </line>
     <line>
-      <![CDATA[RA_Github_Repo44580 is matchig]]>
+      <![CDATA[RA_Github_Repo64933 is matchig]]>
     </line>
     <line>
       <![CDATA[Rest Assured Repo is matchig]]>
@@ -34,13 +416,440 @@
     <line>
       <![CDATA[Status Message : HTTP/1.1 204 No Content]]>
     </line>
+    <line>
+      <![CDATA[ChromeBrowser app is opened]]>
+    </line>
+    <line>
+      <![CDATA[Navigated to https://demowebshop.tricentis.com/]]>
+    </line>
+    <line>
+      <![CDATA[Implicit wait set to : 10]]>
+    </line>
+    <line>
+      <![CDATA[Register is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Tapped on Register]]>
+    </line>
+    <line>
+      <![CDATA[Tapped on ]]>
+    </line>
+    <line>
+      <![CDATA[Entered Dummy into ]]>
+    </line>
+    <line>
+      <![CDATA[Entered User into ]]>
+    </line>
+    <line>
+      <![CDATA[Entered qkCo7123@gmail.com into ]]>
+    </line>
+    <line>
+      <![CDATA[Entered Ka@12345 into ]]>
+    </line>
+    <line>
+      <![CDATA[Entered Ka@12345 into ]]>
+    </line>
+    <line>
+      <![CDATA[Keyboard hided]]>
+    </line>
+    <line>
+      <![CDATA[Tapped on ]]>
+    </line>
+    <line>
+      <![CDATA[Your registration completed is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Closed browser app]]>
+    </line>
+    <line>
+      <![CDATA[ChromeBrowser app is opened]]>
+    </line>
+    <line>
+      <![CDATA[Navigated to https://demowebshop.tricentis.com/]]>
+    </line>
+    <line>
+      <![CDATA[Implicit wait set to : 10]]>
+    </line>
+    <line>
+      <![CDATA[Register is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Tapped on Log in]]>
+    </line>
+    <line>
+      <![CDATA[Entered mkar@gmail.com into ]]>
+    </line>
+    <line>
+      <![CDATA[Entered Ka@12345 into ]]>
+    </line>
+    <line>
+      <![CDATA[Keyboard hided]]>
+    </line>
+    <line>
+      <![CDATA[Tapped on ]]>
+    </line>
+    <line>
+      <![CDATA[mkar@gmail.com is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Closed browser app]]>
+    </line>
   </reporter-output>
-  <suite started-at="2024-01-24T23:56:20 IST" name="Default suite" finished-at="2024-01-24T23:56:28 IST" duration-ms="8060">
+  <suite started-at="2024-01-26T23:19:24 IST" name="RegressionSuite" finished-at="2024-01-26T23:22:24 IST" duration-ms="180475">
     <groups>
     </groups>
-    <test started-at="2024-01-24T23:56:20 IST" name="Default test" finished-at="2024-01-24T23:56:28 IST" duration-ms="8060">
+    <test started-at="2024-01-26T23:19:24 IST" name="Test" finished-at="2024-01-26T23:22:24 IST" duration-ms="180475">
+      <class name="webTestCases.Module4_Cart">
+        <test-method signature="tc001_Add_Product()[pri:0, instance:webTestCases.Module4_Cart@6c1a5b54]" started-at="2024-01-26T23:20:44 IST" name="tc001_Add_Product" finished-at="2024-01-26T23:21:01 IST" duration-ms="17493" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Chrome browser is opened]]>
+            </line>
+            <line>
+              <![CDATA[Browser is maximized]]>
+            </line>
+            <line>
+              <![CDATA[Navigated to https://demowebshop.tricentis.com/]]>
+            </line>
+            <line>
+              <![CDATA[Implicit wait set to : 20 seconds]]>
+            </line>
+            <line>
+              <![CDATA[Log in is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Entered mkar@gmail.com into ]]>
+            </line>
+            <line>
+              <![CDATA[Entered Ka@12345 into ]]>
+            </line>
+            <line>
+              <![CDATA[ is clicked]]>
+            </line>
+            <line>
+              <![CDATA[mkar@gmail.com is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Mouse hovered on COMPUTERS]]>
+            </line>
+            <line>
+              <![CDATA[Desktops is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Desktops is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Scrolled till ]]>
+            </line>
+            <line>
+              <![CDATA[ is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Simple Computer is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Slow is clicked]]>
+            </line>
+            <line>
+              <![CDATA[ is clicked]]>
+            </line>
+            <line>
+              <![CDATA[The product has been added to your shopping cart is displayed]]>
+            </line>
+            <line>
+              <![CDATA[  is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Browser is closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc001_Add_Product -->
+        <test-method signature="tc002_Update_Product()[pri:0, instance:webTestCases.Module4_Cart@6c1a5b54]" started-at="2024-01-26T23:21:01 IST" name="tc002_Update_Product" finished-at="2024-01-26T23:21:13 IST" depends-on-methods="webTestCases.Module4_Cart.tc001_Add_Product" duration-ms="12102" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Chrome browser is opened]]>
+            </line>
+            <line>
+              <![CDATA[Browser is maximized]]>
+            </line>
+            <line>
+              <![CDATA[Navigated to https://demowebshop.tricentis.com/]]>
+            </line>
+            <line>
+              <![CDATA[Implicit wait set to : 20 seconds]]>
+            </line>
+            <line>
+              <![CDATA[Log in is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Entered mkar@gmail.com into ]]>
+            </line>
+            <line>
+              <![CDATA[Entered Ka@12345 into ]]>
+            </line>
+            <line>
+              <![CDATA[ is clicked]]>
+            </line>
+            <line>
+              <![CDATA[mkar@gmail.com is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Shopping cart is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Shopping cart is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Simple Computer is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Cleared and entered 5 into ]]>
+            </line>
+            <line>
+              <![CDATA[ is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Value of value attribute is 5]]>
+            </line>
+            <line>
+              <![CDATA[5 is matchig]]>
+            </line>
+            <line>
+              <![CDATA[Browser is closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc002_Update_Product -->
+        <test-method signature="tc003_Delete_Product()[pri:0, instance:webTestCases.Module4_Cart@6c1a5b54]" started-at="2024-01-26T23:21:13 IST" name="tc003_Delete_Product" finished-at="2024-01-26T23:21:23 IST" depends-on-methods="webTestCases.Module4_Cart.tc001_Add_Product" duration-ms="9270" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Chrome browser is opened]]>
+            </line>
+            <line>
+              <![CDATA[Browser is maximized]]>
+            </line>
+            <line>
+              <![CDATA[Navigated to https://demowebshop.tricentis.com/]]>
+            </line>
+            <line>
+              <![CDATA[Implicit wait set to : 20 seconds]]>
+            </line>
+            <line>
+              <![CDATA[Log in is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Entered mkar@gmail.com into ]]>
+            </line>
+            <line>
+              <![CDATA[Entered Ka@12345 into ]]>
+            </line>
+            <line>
+              <![CDATA[ is clicked]]>
+            </line>
+            <line>
+              <![CDATA[mkar@gmail.com is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Shopping cart is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Shopping cart is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Simple Computer is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Cleared and entered 0 into ]]>
+            </line>
+            <line>
+              <![CDATA[ is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Your Shopping Cart is empty! is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Browser is closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc003_Delete_Product -->
+      </class> <!-- webTestCases.Module4_Cart -->
+      <class name="androidTestCases.MobileWebTC">
+        <test-method signature="tc001_Registration()[pri:0, instance:androidTestCases.MobileWebTC@60099951]" started-at="2024-01-26T23:21:28 IST" name="tc001_Registration" finished-at="2024-01-26T23:22:00 IST" duration-ms="31638" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[ChromeBrowser app is opened]]>
+            </line>
+            <line>
+              <![CDATA[Navigated to https://demowebshop.tricentis.com/]]>
+            </line>
+            <line>
+              <![CDATA[Implicit wait set to : 10]]>
+            </line>
+            <line>
+              <![CDATA[Register is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Tapped on Register]]>
+            </line>
+            <line>
+              <![CDATA[Tapped on ]]>
+            </line>
+            <line>
+              <![CDATA[Entered Dummy into ]]>
+            </line>
+            <line>
+              <![CDATA[Entered User into ]]>
+            </line>
+            <line>
+              <![CDATA[Entered qkCo7123@gmail.com into ]]>
+            </line>
+            <line>
+              <![CDATA[Entered Ka@12345 into ]]>
+            </line>
+            <line>
+              <![CDATA[Entered Ka@12345 into ]]>
+            </line>
+            <line>
+              <![CDATA[Keyboard hided]]>
+            </line>
+            <line>
+              <![CDATA[Tapped on ]]>
+            </line>
+            <line>
+              <![CDATA[Your registration completed is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Closed browser app]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc001_Registration -->
+        <test-method signature="tc002_Login()[pri:0, instance:androidTestCases.MobileWebTC@60099951]" started-at="2024-01-26T23:22:00 IST" name="tc002_Login" finished-at="2024-01-26T23:22:24 IST" duration-ms="24302" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[ChromeBrowser app is opened]]>
+            </line>
+            <line>
+              <![CDATA[Navigated to https://demowebshop.tricentis.com/]]>
+            </line>
+            <line>
+              <![CDATA[Implicit wait set to : 10]]>
+            </line>
+            <line>
+              <![CDATA[Register is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Tapped on Log in]]>
+            </line>
+            <line>
+              <![CDATA[Entered mkar@gmail.com into ]]>
+            </line>
+            <line>
+              <![CDATA[Entered Ka@12345 into ]]>
+            </line>
+            <line>
+              <![CDATA[Keyboard hided]]>
+            </line>
+            <line>
+              <![CDATA[Tapped on ]]>
+            </line>
+            <line>
+              <![CDATA[mkar@gmail.com is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Closed browser app]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc002_Login -->
+      </class> <!-- androidTestCases.MobileWebTC -->
+      <class name="webTestCases.Module3_Search">
+        <test-method signature="tc001_Search_via_NavigationBar()[pri:0, instance:webTestCases.Module3_Search@2794eab6]" started-at="2024-01-26T23:20:00 IST" name="tc001_Search_via_NavigationBar" finished-at="2024-01-26T23:20:14 IST" duration-ms="14635" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Chrome browser is opened]]>
+            </line>
+            <line>
+              <![CDATA[Browser is maximized]]>
+            </line>
+            <line>
+              <![CDATA[Navigated to https://demowebshop.tricentis.com/]]>
+            </line>
+            <line>
+              <![CDATA[Implicit wait set to : 20 seconds]]>
+            </line>
+            <line>
+              <![CDATA[Log in is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Entered mkar@gmail.com into ]]>
+            </line>
+            <line>
+              <![CDATA[Entered Ka@12345 into ]]>
+            </line>
+            <line>
+              <![CDATA[ is clicked]]>
+            </line>
+            <line>
+              <![CDATA[mkar@gmail.com is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Mouse hovered on COMPUTERS]]>
+            </line>
+            <line>
+              <![CDATA[Desktops is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Desktops is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Browser is closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc001_Search_via_NavigationBar -->
+        <test-method signature="tc002_Search_via_SearchTF()[pri:0, instance:webTestCases.Module3_Search@2794eab6]" started-at="2024-01-26T23:20:14 IST" name="tc002_Search_via_SearchTF" finished-at="2024-01-26T23:20:29 IST" duration-ms="14532" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Chrome browser is opened]]>
+            </line>
+            <line>
+              <![CDATA[Browser is maximized]]>
+            </line>
+            <line>
+              <![CDATA[Navigated to https://demowebshop.tricentis.com/]]>
+            </line>
+            <line>
+              <![CDATA[Implicit wait set to : 20 seconds]]>
+            </line>
+            <line>
+              <![CDATA[Log in is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Entered mkar@gmail.com into ]]>
+            </line>
+            <line>
+              <![CDATA[Entered Ka@12345 into ]]>
+            </line>
+            <line>
+              <![CDATA[ is clicked]]>
+            </line>
+            <line>
+              <![CDATA[mkar@gmail.com is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Entered computer into ]]>
+            </line>
+            <line>
+              <![CDATA[Simple Computer is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Simple Computer is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Browser is closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc002_Search_via_SearchTF -->
+      </class> <!-- webTestCases.Module3_Search -->
       <class name="webServicesTestCases.Module1_GithubRepo">
-        <test-method signature="tc001_CreateRepo()[pri:0, instance:webServicesTestCases.Module1_GithubRepo@67f639d3]" started-at="2024-01-24T23:56:20 IST" name="tc001_CreateRepo" finished-at="2024-01-24T23:56:25 IST" duration-ms="5440" status="PASS">
+        <test-method signature="tc001_CreateRepo()[pri:0, instance:webServicesTestCases.Module1_GithubRepo@1c7696c6]" started-at="2024-01-26T23:21:23 IST" name="tc001_CreateRepo" finished-at="2024-01-26T23:21:27 IST" duration-ms="3973" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Status Code : 201]]>
@@ -49,14 +858,14 @@
               <![CDATA[Status Message : HTTP/1.1 201 Created]]>
             </line>
             <line>
-              <![CDATA[RA_Github_Repo44580 is matchig]]>
+              <![CDATA[RA_Github_Repo64933 is matchig]]>
             </line>
             <line>
               <![CDATA[Rest Assured Repo is matchig]]>
             </line>
           </reporter-output>
         </test-method> <!-- tc001_CreateRepo -->
-        <test-method signature="tc002_GetRepo()[pri:0, instance:webServicesTestCases.Module1_GithubRepo@67f639d3]" started-at="2024-01-24T23:56:25 IST" name="tc002_GetRepo" finished-at="2024-01-24T23:56:26 IST" duration-ms="628" status="PASS">
+        <test-method signature="tc002_GetRepo()[pri:0, instance:webServicesTestCases.Module1_GithubRepo@1c7696c6]" started-at="2024-01-26T23:21:27 IST" name="tc002_GetRepo" finished-at="2024-01-26T23:21:27 IST" duration-ms="474" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Status Code : 200]]>
@@ -66,7 +875,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- tc002_GetRepo -->
-        <test-method signature="tc003_UpdateRepo()[pri:0, instance:webServicesTestCases.Module1_GithubRepo@67f639d3]" started-at="2024-01-24T23:56:26 IST" name="tc003_UpdateRepo" finished-at="2024-01-24T23:56:27 IST" duration-ms="1178" status="PASS">
+        <test-method signature="tc003_UpdateRepo()[pri:0, instance:webServicesTestCases.Module1_GithubRepo@1c7696c6]" started-at="2024-01-26T23:21:27 IST" name="tc003_UpdateRepo" finished-at="2024-01-26T23:21:28 IST" duration-ms="585" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Status Code : 200]]>
@@ -79,7 +888,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- tc003_UpdateRepo -->
-        <test-method signature="tc004_DeleteRepo()[pri:0, instance:webServicesTestCases.Module1_GithubRepo@67f639d3]" started-at="2024-01-24T23:56:27 IST" name="tc004_DeleteRepo" finished-at="2024-01-24T23:56:28 IST" duration-ms="757" status="PASS">
+        <test-method signature="tc004_DeleteRepo()[pri:0, instance:webServicesTestCases.Module1_GithubRepo@1c7696c6]" started-at="2024-01-26T23:21:28 IST" name="tc004_DeleteRepo" finished-at="2024-01-26T23:21:28 IST" duration-ms="545" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Status Code : 204]]>
@@ -90,6 +899,171 @@
           </reporter-output>
         </test-method> <!-- tc004_DeleteRepo -->
       </class> <!-- webServicesTestCases.Module1_GithubRepo -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+      <class name="webTestCases.Module2_Login">
+        <test-method signature="tc001_Valid_Data()[pri:0, instance:webTestCases.Module2_Login@6340e5f0]" started-at="2024-01-26T23:20:29 IST" name="tc001_Valid_Data" finished-at="2024-01-26T23:20:37 IST" duration-ms="7906" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Chrome browser is opened]]>
+            </line>
+            <line>
+              <![CDATA[Browser is maximized]]>
+            </line>
+            <line>
+              <![CDATA[Navigated to https://demowebshop.tricentis.com/]]>
+            </line>
+            <line>
+              <![CDATA[Implicit wait set to : 20 seconds]]>
+            </line>
+            <line>
+              <![CDATA[Log in is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Entered mkar@gmail.com into ]]>
+            </line>
+            <line>
+              <![CDATA[Entered Ka@12345 into ]]>
+            </line>
+            <line>
+              <![CDATA[ is clicked]]>
+            </line>
+            <line>
+              <![CDATA[mkar@gmail.com is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Browser is closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc001_Valid_Data -->
+        <test-method signature="tc002_Invalid_Data()[pri:0, instance:webTestCases.Module2_Login@6340e5f0]" started-at="2024-01-26T23:20:37 IST" name="tc002_Invalid_Data" finished-at="2024-01-26T23:20:44 IST" duration-ms="6959" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Edge browser is opened]]>
+            </line>
+            <line>
+              <![CDATA[Browser is maximized]]>
+            </line>
+            <line>
+              <![CDATA[Navigated to https://demowebshop.tricentis.com/]]>
+            </line>
+            <line>
+              <![CDATA[Implicit wait set to : 20 seconds]]>
+            </line>
+            <line>
+              <![CDATA[Log in is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Entered karti@hotmail.com into ]]>
+            </line>
+            <line>
+              <![CDATA[Entered Ka@12345 into ]]>
+            </line>
+            <line>
+              <![CDATA[ is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Login was unsuccessful. Please correct the errors and try again.
+No customer account found is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Browser is closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc002_Invalid_Data -->
+      </class> <!-- webTestCases.Module2_Login -->
+      <class name="webTestCases.Module1_Registration">
+        <test-method signature="tc001_Valid_Data()[pri:0, instance:webTestCases.Module1_Registration@534a5a98]" started-at="2024-01-26T23:19:24 IST" name="tc001_Valid_Data" finished-at="2024-01-26T23:19:43 IST" duration-ms="19188" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[FireFox browser is opened]]>
+            </line>
+            <line>
+              <![CDATA[Browser is maximized]]>
+            </line>
+            <line>
+              <![CDATA[Navigated to https://demowebshop.tricentis.com/]]>
+            </line>
+            <line>
+              <![CDATA[Implicit wait set to : 20 seconds]]>
+            </line>
+            <line>
+              <![CDATA[Register is clicked]]>
+            </line>
+            <line>
+              <![CDATA[ is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Entered Dummy into ]]>
+            </line>
+            <line>
+              <![CDATA[Entered User into ]]>
+            </line>
+            <line>
+              <![CDATA[Entered RY4nJ123@gmail.com into ]]>
+            </line>
+            <line>
+              <![CDATA[Entered Ka@12345 into ]]>
+            </line>
+            <line>
+              <![CDATA[Entered Ka@12345 into ]]>
+            </line>
+            <line>
+              <![CDATA[ is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Your registration completed is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Browser is closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc001_Valid_Data -->
+        <test-method signature="tc002_Invalid_Data()[pri:0, instance:webTestCases.Module1_Registration@534a5a98]" started-at="2024-01-26T23:19:43 IST" name="tc002_Invalid_Data" finished-at="2024-01-26T23:20:00 IST" duration-ms="16760" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Edge browser is opened]]>
+            </line>
+            <line>
+              <![CDATA[Browser is maximized]]>
+            </line>
+            <line>
+              <![CDATA[Navigated to https://demowebshop.tricentis.com/]]>
+            </line>
+            <line>
+              <![CDATA[Implicit wait set to : 20 seconds]]>
+            </line>
+            <line>
+              <![CDATA[Register is clicked]]>
+            </line>
+            <line>
+              <![CDATA[ is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Entered Dummy into ]]>
+            </line>
+            <line>
+              <![CDATA[Entered User into ]]>
+            </line>
+            <line>
+              <![CDATA[Entered mkar@gmail.com into ]]>
+            </line>
+            <line>
+              <![CDATA[Entered Ka@12345 into ]]>
+            </line>
+            <line>
+              <![CDATA[Entered Ka@12345 into ]]>
+            </line>
+            <line>
+              <![CDATA[ is clicked]]>
+            </line>
+            <line>
+              <![CDATA[The specified email already exists is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Browser is closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc002_Invalid_Data -->
+      </class> <!-- webTestCases.Module1_Registration -->
+    </test> <!-- Test -->
+  </suite> <!-- RegressionSuite -->
 </testng-results>

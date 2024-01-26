@@ -9,7 +9,7 @@ public class Module1_Registration extends BaseClass{
 	@Test
 	public void tc001_Valid_Data()
 	{
-		webUtil.openBrowser("Chrome");
+		webUtil.openBrowser("Firefox");
 		webUtil.maximizeBrowser();
 		webUtil.navigateTo("https://demowebshop.tricentis.com/");
 		webUtil.setImplicitWait(20);
